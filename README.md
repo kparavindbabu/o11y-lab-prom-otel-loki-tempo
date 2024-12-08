@@ -1,3 +1,5 @@
+# [Blog Post](https://dev.to/aws-builders/o11y-opentelemetry-prometheus-loki-e-tempo-no-eks-lab-session-2o4b)
+
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
